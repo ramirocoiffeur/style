@@ -816,6 +816,18 @@ p {
     background: url(../images/hermosa.jpg) no-repeat center 0px; 
 	background-size: cover; 
 } 
+.gallery-w3lsgrid a.agilefig.gallery-img7{
+    background: url(../images/peluca.jpg) no-repeat center 0px; 
+    background-size: cover; 
+} 
+.gallery-w3lsgrid a.agilefig.gallery-img8{
+    background: url(../images/miss.jpg) no-repeat center 0px; 
+    background-size: cover; 
+}
+.gallery-w3lsgrid a.agilefig.gallery-img9{
+    background: url(../images/g2.jpg) no-repeat center 0px; 
+    background-size: cover; 
+} 
 .gallery-w3lsgrid {
     padding: 0; 
 	overflow:hidden;
